@@ -6,7 +6,8 @@ namespace twitterSample
 {
     public partial class frmHome : Form
     {
-        // consumerKey,ConsumerSecret,AccessToken,AccessSecret degerlerini bir twitter hesabı aracılığı ile apps.twitter.com.tr
+        // consumerKey,ConsumerSecret,AccessToken,AccessSecret degerlerini bir twitter hesabı aracılığı ile apps.twitter.com.tr adresinden
+        //elde edilebilir.
         readonly string ConsumerKey = "";
         readonly string ConsumerSecret = "";
         readonly string AccessToken = "";
