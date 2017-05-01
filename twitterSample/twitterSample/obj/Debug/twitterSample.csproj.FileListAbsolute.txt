@@ -1,0 +1,32 @@
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\twitterSample\twitterSample\bin\Debug\twitterSample.exe.config
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\twitterSample\twitterSample\bin\Debug\twitterSample.exe
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\twitterSample\twitterSample\bin\Debug\twitterSample.pdb
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\twitterSample\twitterSample\obj\Debug\twitterSample.csprojResolveAssemblyReference.cache
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\twitterSample\twitterSample\obj\Debug\twitterSample.frmHome.resources
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\twitterSample\twitterSample\obj\Debug\twitterSample.Properties.Resources.resources
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\twitterSample\twitterSample\obj\Debug\twitterSample.csproj.GenerateResource.Cache
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\twitterSample\twitterSample\obj\Debug\twitterSample.exe
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\twitterSample\twitterSample\obj\Debug\twitterSample.pdb
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\twitterSample\twitterSample\bin\Debug\Hammock.ClientProfile.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\twitterSample\twitterSample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\twitterSample\twitterSample\bin\Debug\TweetSharp.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\twitterSample\twitterSample\bin\Debug\Hammock.ClientProfile.pdb
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\twitterSample\twitterSample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\twitterSample\twitterSample\bin\Debug\TweetSharp.pdb
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\twitterSample\twitterSample\obj\Debug\twitterSample.Form2.resources
+C:\Users\MANSUR-PC\Desktop\twitterSample\twitterSample\bin\Debug\twitterSample.exe.config
+C:\Users\MANSUR-PC\Desktop\twitterSample\twitterSample\obj\Debug\twitterSample.exe
+C:\Users\MANSUR-PC\Desktop\twitterSample\twitterSample\obj\Debug\twitterSample.pdb
+C:\Users\MANSUR-PC\Desktop\twitterSample\twitterSample\bin\Debug\twitterSample.exe
+C:\Users\MANSUR-PC\Desktop\twitterSample\twitterSample\bin\Debug\twitterSample.pdb
+C:\Users\MANSUR-PC\Desktop\twitterSample\twitterSample\bin\Debug\Hammock.ClientProfile.dll
+C:\Users\MANSUR-PC\Desktop\twitterSample\twitterSample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MANSUR-PC\Desktop\twitterSample\twitterSample\bin\Debug\TweetSharp.dll
+C:\Users\MANSUR-PC\Desktop\twitterSample\twitterSample\bin\Debug\Hammock.ClientProfile.pdb
+C:\Users\MANSUR-PC\Desktop\twitterSample\twitterSample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MANSUR-PC\Desktop\twitterSample\twitterSample\bin\Debug\TweetSharp.pdb
+C:\Users\MANSUR-PC\Desktop\twitterSample\twitterSample\obj\Debug\twitterSample.csprojResolveAssemblyReference.cache
+C:\Users\MANSUR-PC\Desktop\twitterSample\twitterSample\obj\Debug\twitterSample.frmHome.resources
+C:\Users\MANSUR-PC\Desktop\twitterSample\twitterSample\obj\Debug\twitterSample.Form2.resources
+C:\Users\MANSUR-PC\Desktop\twitterSample\twitterSample\obj\Debug\twitterSample.Properties.Resources.resources
+C:\Users\MANSUR-PC\Desktop\twitterSample\twitterSample\obj\Debug\twitterSample.csproj.GenerateResource.Cache
