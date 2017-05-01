@@ -6,10 +6,11 @@ namespace twitterSample
 {
     public partial class frmHome : Form
     {
-        readonly string ConsumerKey = "DO9SgOf6aFvHJYI3gCSD2yrKK";
-        readonly string ConsumerSecret = "Qfi9kLeszGX6Dj7STkqRJk2O9nud5hvtv4IKjS4xrDiH6IM91P";
-        readonly string AccessToken = "912954949-tk3YGVa0TjbahPfO6Q6Uw0he8Tpeq1RbiGT15o0Z";
-        readonly string AccessSecret = "rffHmLS62guSZNT7gywqXXVaocN8CDjehkb6ziyPbBCLK";
+        // consumerKey,ConsumerSecret,AccessToken,AccessSecret degerlerini bir twitter hesabı aracılığı ile apps.twitter.com.tr
+        readonly string ConsumerKey = "";
+        readonly string ConsumerSecret = "";
+        readonly string AccessToken = "";
+        readonly string AccessSecret = "";
         TwitterService service;
         public frmHome()
         {
